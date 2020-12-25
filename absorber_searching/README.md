@@ -1,14 +1,8 @@
-# Continuum fitting 
+# Absorber searching
 
 ----
 
-## Here're continuum fitting notes
+## Here're absorber-searching notes
 
-### 1. NMF fitting (Zhu et al. 2013, 2016):
-
-ref: https://ui.adsabs.harvard.edu/abs/2013ApJ...770..130Z/abstract
-     https://ui.adsabs.harvard.edu/abs/2016arXiv161206037Z/abstract
-
-#### Here please find the relevant codes
-     
-     https://github.com/guangtunbenzhu/NonnegMFPy
+### 1. Matched filter method (Chen et al. 2017):
+	https://ui.adsabs.harvard.edu/abs/2017ApJ...850..188C/abstract
