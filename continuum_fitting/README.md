@@ -6,8 +6,9 @@
 
 ### 1. NMF fitting (Zhu et al. 2013, 2016):
    ref:
-   https://ui.adsabs.harvard.edu/abs/2013ApJ...770..130Z/abstract <br>
-   https://ui.adsabs.harvard.edu/abs/2016arXiv161206037Z/abstract <br>
+   https://ui.adsabs.harvard.edu/abs/2013ApJ...770..130Z/abstract
+
+   https://ui.adsabs.harvard.edu/abs/2016arXiv161206037Z/abstract
 
 #### Here please find the relevant codes
    https://github.com/guangtunbenzhu/NonnegMFPy
@@ -20,12 +21,13 @@ key idea:
   - ZWARNING = 0 (avoid objects with high uncertain redshifts)
     - BAL_PROB = 0 (reject BAL QSOs)
 * There are 93067 QSOs satisfy the criteria above. The results are shown in QSO_list.txt.
-  - S/N > 7
+* S/N > 7: The number of QSOs with S/N > 7 is ******.
 ----
 
 ### 2. Spline fitting (Bosman et al. 2017, Meyer et al. 2019)
-   https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.1919B/abstract <br>
-   https://ui.adsabs.harvard.edu/abs/2019MNRAS.483...19M/abstract <br>
+   https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.1919B/abstract
+
+   https://ui.adsabs.harvard.edu/abs/2019MNRAS.483...19M/abstract
 
 #### Here please find the relevant codes
    https://github.com/rameyer/QUICFit
