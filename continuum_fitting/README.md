@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Continuum fitting
+=======
+# Continuum fitting 
+>>>>>>> 7fd1a691c7ccb506e19a3a0dd4d09758192a2503
 
 ----
 
@@ -12,6 +16,7 @@
 #### Here please find the relevant codes
    https://github.com/guangtunbenzhu/NonnegMFPy
 
+<<<<<<< HEAD
 #### Process:
 key idea:
 * Selection criteria of high-z QSO analogs with both Lyman $\alpha$ and MgII emission observations:
@@ -23,6 +28,8 @@ key idea:
   - S/N > 7
 ----
 
+=======
+>>>>>>> 7fd1a691c7ccb506e19a3a0dd4d09758192a2503
 ### 2. Spline fitting (Bosman et al. 2017, Meyer et al. 2019)
    https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.1919B/abstract <br>
    https://ui.adsabs.harvard.edu/abs/2019MNRAS.483...19M/abstract <br>
@@ -35,4 +42,8 @@ key idea:
 ----
 
 ## Shortage：
+<<<<<<< HEAD
    Currently there is no any quasar continuum prediction/fitting method can produce a good enough intrinsic spectrum for narrow absorption line studies. And, we have no method to evaluate the goodness of continuum fitting.
+=======
+   Currently there is no any quasar continuum prediction/fitting method can produce a good enough intrinsic spectrum for narrow absorption line studies. And, we have no method to evaluate the goodness of continuum fitting. 
+>>>>>>> 7fd1a691c7ccb506e19a3a0dd4d09758192a2503
