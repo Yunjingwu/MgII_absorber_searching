@@ -16,7 +16,7 @@
 key idea:
 * Selection criteria of high-z QSO analogs with both Lyman $\alpha$ and MgII emission observations:
 (We may need a luminosity cut?)
-  - 2.09 < $z_{{\rm pipe}}$ < 2.51 (wavelength coverage: $3600 \sim 10400 \AA$)
+  - 2.09 < z_pipe < 2.51 (wavelength coverage: 3600 ~ 10400 Å)
   - ZWARNING = 0 (avoid objects with high uncertain redshifts)
     - BAL_PROB = 0 (reject BAL QSOs)
 * There are 93067 QSOs satisfy the criteria above. The results are shown in QSO_list.txt.
